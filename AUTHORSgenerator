@@ -1,0 +1,12 @@
+#!/bin/bash
+# Here the code below generates the info of contributors
+#Have fun
+
+{
+	cat <<-'EOH'
+	# Good generator
+	EOH
+	echo
+	# Done
+	git log --format='%aN <%aE>' | LC_ALL=C.UTF-8 sort -uf
+} > AUTHORS

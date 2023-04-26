@@ -5,7 +5,7 @@
  * Yes
  * @s: Check to refer
  * @buffer: TCheck to refer
- * Return: Check to refer
+ * Return:Check to refer
  */
 char **tokeninng(char *buffer, const char *s)
 {

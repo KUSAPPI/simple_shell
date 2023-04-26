@@ -4,8 +4,9 @@
  * freelyDp - Check to refer
  * Yes
  * @command: Check to refer
- * Return: Check to refer 
- */ 
+ * Return:Check to refer 
+ */
+
 void freelyDp(char **command)
 {
 	size_t i = 0;

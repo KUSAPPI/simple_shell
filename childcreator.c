@@ -7,7 +7,7 @@
  * @name: Check to refer
  * @env: Check to refer
  * @cicles: Check to refer
- * Return: Check to refer
+ * Return:Check to refer
  */
 void child_creator(char **command, char *name, char **env, int cicles)
 {

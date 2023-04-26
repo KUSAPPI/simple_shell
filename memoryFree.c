@@ -4,7 +4,7 @@
  * freelyDp - Check to refer
  * Yes
  * @command: Check to refer
- * Return:Check to refer 
+ * Return:Check to refer
  */
 
 void freelyDp(char **command)

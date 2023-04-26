@@ -62,7 +62,7 @@ void iprompti(void)
 /**
  * handle - Check to refer.
  * @signals: Check to refer
- * Return: Check to refer Nothing.
+ * Return:Check to refer Nothing.
  */
 void handle(int signals)
 {

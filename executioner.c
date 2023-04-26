@@ -7,7 +7,7 @@
  * @name: TCheck to refer
  * @env: Check to refer
  * @cicles: Check to refer
- * Return: Check to
+ * Return:Check to
  */
 void executeer(char **command, char *name, char **env, int cicles)
 {

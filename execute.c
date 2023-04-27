@@ -3,7 +3,7 @@
 /**
  * execute - A function that executes a command.
  * @command: The pointer to tokienized command
- * @name: The name of the shell.
+ * @name: The name of the shell project.
  * @env: The pointer to the enviromental variables.
  * @cicles: Number of executed cicles.
  * Return: Nothing.
